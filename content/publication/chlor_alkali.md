@@ -68,8 +68,8 @@ highlight = true
 #image = "ftl.png"
 #caption = "My caption :smile:"
 
-#+++
-#A generalized focal loss function based on the Tversky index to address the issue of data imbalance in medical image segmentation.
-#
-#In *International Symposium on Biomedical Imaging*, 2019. 
-#**Oral**.
++++
+A generalized focal loss function based on the Tversky index to address the issue of data imbalance in medical image segmentation.
+
+In *International Symposium on Biomedical Imaging*, 2019. 
+**Oral**.
