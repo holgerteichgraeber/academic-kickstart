@@ -1,7 +1,7 @@
 +++
 # Accomplishments widget.
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
+headless = false  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
@@ -21,7 +21,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Stanford University"
   organization_url = ""
-  title = "Outstanding Achievement in Mentoring Award"
+  title = "Outstanding achievement in mentoring award"
   url = ""
   certificate_url = ""
   date_start = "2019-06-04"
@@ -29,9 +29,9 @@ date_format = "Jan 2006"
   description = ""
 
 [[item]]
-  organization = "SunCode 2019 (largest US cleantech hackathon)"
+  organization = "SunCode 2019"
   organization_url = "https://suncode2019.devpost.com/"
-  title = "2nd place winner"
+  title = "2nd place winner at largest US cleantech hackathon"
   url = "https://devpost.com/software/isthisthingon"
   certificate_url = ""
   date_start = "2019-05-18"
@@ -48,4 +48,33 @@ date_format = "Jan 2006"
   date_end = ""
   description = ""
 
+[[item]]
+  organization = "Stanford University"
+  organization_url = ""
+  title = "Centennial Teaching Assistant Award"
+  url = ""
+  certificate_url = ""
+  date_start = "2017-06-17"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Stanford University"
+  organization_url = ""
+  title = "Stanford Graduate Fellowship in Science and Engineering"
+  url = ""
+  certificate_url = ""
+  date_start = "2014-09-01"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Scholarship of the German National Academic Foundation"
+  organization_url = "Studienstiftung des deutschen Volkes"
+  title = ""
+  url = "https://www.studienstiftung.de/en/"
+  certificate_url = ""
+  date_start = "2011-01-01"
+  date_end = ""
+  description = "The German Academic Scholarship Foundation is Germany's largest, oldest and most prestigious scholarship foundation. "
 +++
