@@ -10,13 +10,23 @@ subtitle = ""
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Jan 2006"
+date_format = "2006"
 
 # Accomplishments.
 #   Add/remove as many `[[item]]` blocks below as you like.
 #   `title`, `organization` and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[item]]
+  organization = "Stanford University"
+  organization_url = ""
+  title = "Rising Environmental Leaders Program"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-02-01"
+  date_end = ""
+  description = ""
 
 [[item]]
   organization = "Stanford University"
@@ -62,6 +72,16 @@ date_format = "Jan 2006"
   organization = "Stanford University"
   organization_url = ""
   title = "Stanford Graduate Fellowship in Science and Engineering"
+  url = ""
+  certificate_url = ""
+  date_start = "2014-09-15"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "RWTH Aachen University"
+  organization_url = ""
+  title = "Dean's List"
   url = ""
   certificate_url = ""
   date_start = "2014-09-01"
