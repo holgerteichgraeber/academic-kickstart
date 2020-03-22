@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Holger Teichgraeber
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
@@ -18,24 +18,28 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: PhD candidate at Stanford. Interested in machine learning and optimization.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Machine Learning
+- Optimization
+- Energy Systems
+- Logistics
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
+  - course: PhD in Energy Resources Engineering
     institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    year: 2020
+  - course: Ignite Program in Innovation and Entrepeneurship
+    institution: Stanford University, Graduate School of Business
+    year: 2018
+  - course: MS in Energy Resources Engineering
+    institution: Stanford University
+    year: 2016
+  - course: BS in Mechanical Engineering
+    institution: RWTH Aachen University
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -45,15 +49,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=G6TY46oAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/holgerteichgraeber
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -65,11 +69,16 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+#user_groups:
+#- Researchers
+#- Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Holger Teichgraeber is a Ph.D. candidate in the Department of Energy Resources Engineering at Stanford University. He is a Wells Family Stanford Graduate Fellow and is advised by Prof. Adam Brandt.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+In his research, he focuses on applying state-of-the-art computational tools at the intersection of optimization and machine learning to energy systems problems. As an example, he has worked extensively on the development of new algorithms and applications of time-series aggregation for infrastructure planning and operations.
+Out of his research, two open-source software packages have emerged: TimeSeriesClustering implements unsupervised learning methods for time-series data (git.io/TimeSeriesClustering), and CapacityExpansion provides an extensible, data-driven infrastructure planning tool for energy systems (git.io/CapacityExpansion).
+
+Holger has previously interned at the battery software company Doosan GridTech; in the renewable energy forecasting division of Vaisala (formerly 3Tier); in the market optimization group at RWE Power, one of Europe's largest utility companies; and at ThyssenKrupp, one of the world's largest steel producers.
+
+
