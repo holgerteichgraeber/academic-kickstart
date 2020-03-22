@@ -81,7 +81,7 @@ date_format = "2006"
 [[item]]
   organization = "RWTH Aachen University"
   organization_url = ""
-  title = "Dean's List"
+  title = "Dean's List and top 0.5% of graduating class"
   url = ""
   certificate_url = ""
   date_start = "2014-09-01"
