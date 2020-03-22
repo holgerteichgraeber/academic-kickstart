@@ -76,5 +76,5 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2011-01-01"
   date_end = ""
-  description = "The German Academic Scholarship Foundation is Germany's largest, oldest and most prestigious scholarship foundation. "
+  description = ""# "The German Academic Scholarship Foundation is Germany's largest, oldest and most prestigious scholarship foundation. "
 +++
