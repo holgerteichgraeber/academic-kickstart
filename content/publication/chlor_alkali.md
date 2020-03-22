@@ -69,7 +69,5 @@ highlight = true
 #caption = "My caption :smile:"
 
 +++
-A generalized focal loss function based on the Tversky index to address the issue of data imbalance in medical image segmentation.
+This paper presents a methodology for the application of receding horizon optimization techniques to the problem of optimally managing the energy flows in the chlor-alkali process using a hybrid renewable energy system (HRES). 
 
-In *International Symposium on Biomedical Imaging*, 2019. 
-**Oral**.
