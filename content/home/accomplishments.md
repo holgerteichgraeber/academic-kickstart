@@ -71,7 +71,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Studienstiftung des deutschen Volkes"
   organization_url = ""
-  title = "Scholarship of the German National Academic Foundation""
+  title = "Scholarship of the German Academic Scholarship Foundation"
   url = "https://www.studienstiftung.de/en/"
   certificate_url = ""
   date_start = "2011-01-01"
