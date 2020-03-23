@@ -77,11 +77,11 @@ email: ""
 #- Visitors
 ---
 
-Holger Teichgraeber is a Ph.D. candidate in the Department of Energy Resources Engineering at Stanford University. He is a Wells Family Stanford Graduate Fellow and is advised by Prof. Adam Brandt.
+I am a Ph.D. candidate in the Department of Energy Resources Engineering at Stanford University. My advisor is [Prof. Adam Brandt](https://profiles.stanford.edu/adam-brandt) and I am a Wells Family Stanford Graduate Fellow.
 
-In his research, he focuses on applying state-of-the-art computational tools at the intersection of optimization and machine learning to energy systems problems. As an example, he has worked extensively on the development of new algorithms and applications of time-series aggregation for infrastructure planning and operations.
-Out of his research, two open-source software packages have emerged: TimeSeriesClustering implements unsupervised learning methods for time-series data (git.io/TimeSeriesClustering), and CapacityExpansion provides an extensible, data-driven infrastructure planning tool for energy systems (git.io/CapacityExpansion).
+In my research, I focus on applying state-of-the-art computational tools at the intersection of optimization and machine learning to energy systems problems. As an example, I have worked extensively on the development of new algorithms and applications of time-series aggregation for infrastructure planning and operations.
+Out of my research, two open-source software packages have emerged: [TimeSeriesClustering](git.io/TimeSeriesClustering)) implements unsupervised learning methods for time-series data, and [CapacityExpansion](git.io/CapacityExpansion) provides an extensible, data-driven infrastructure planning tool for energy systems.
 
-Holger has previously interned at the battery software company Doosan GridTech; in the renewable energy forecasting division of Vaisala (formerly 3Tier); in the market optimization group at RWE Power, one of Europe's largest utility companies; and at ThyssenKrupp, one of the world's largest steel producers.
+I have previously interned at the battery software company Doosan GridTech; in the renewable energy forecasting division of Vaisala (formerly 3Tier); in the market optimization group at RWE Power, one of Europe's largest utility companies; and at ThyssenKrupp, one of the world's largest steel producers.
 
 
