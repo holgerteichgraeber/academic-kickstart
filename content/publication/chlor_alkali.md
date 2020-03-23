@@ -52,9 +52,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-[[url_custom]]
-name = "DOI"
-url = "https://www.sciencedirect.com/science/article/pii/S0959152414001188"
+links = [{name = "Paper", url = "https://www.sciencedirect.com/science/article/pii/S0959152414001188"}]
 
 # Does the content use math formatting?
 math = true
