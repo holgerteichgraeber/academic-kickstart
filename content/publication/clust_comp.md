@@ -56,7 +56,7 @@ url_source = ""
 #name = "DOI"
 #url = "https://www.sciencedirect.com/science/article/abs/pii/S0306261919303022"
 
-url_custom = [{name = "DOI", url = "https://www.sciencedirect.com/science/article/abs/pii/S0306261919303022" }]
+links = [{name = "DOI", url = "https://www.sciencedirect.com/science/article/abs/pii/S0306261919303022" }]
 
 # Does the content use math formatting?
 math = true
