@@ -1,7 +1,7 @@
 
 +++
-title = "An economic receding horizon optimization approach for energy management in the chlor-alkali process with hybrid renewable energy generation"
-date = "2014-08-01"
+title = "Clustering methods to find representative periods for the optimization of energy systems: An initial framework and comparison"
+date = "2019-02-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 
