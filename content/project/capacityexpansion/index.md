@@ -1,7 +1,8 @@
 
 ---
 title: CapacityExpansion
-summary: An extensible, data-driven infrastructure planning tool for energy systems in Julia. 
+summary: An extensible, data-driven infrastructure planning tool for energy systems in Julia. The main purpose of the package is to provide a simple-to-use generation and transmission capacity extension model that allows to address a diverse set of research questions in the area of energy systems planning. 
+
 tags:
 - Software
 date: "2019-10-27T00:00:00Z"
