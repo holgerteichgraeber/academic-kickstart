@@ -1,13 +1,13 @@
 
 ---
-title: TimeSeriesClustering
-summary: Julia implementation of unsupervised learning methods for time series datasets. It provides functionality for clustering and aggregating, detecting motifs, and quantifying similarity between time series datasets.
+title: CapacityExpansion
+summary: An extensible, data-driven infrastructure planning tool for energy systems in Julia. 
 tags:
 - Software
-date: "2019-06-27T00:00:00Z"
+date: "2019-10-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/holgerteichgraeber/TimeSeriesClustering.jl"
+external_link: "https://github.com/YoungFaithful/CapacityExpansion.jl"
 
 image:
   caption: 
