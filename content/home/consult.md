@@ -25,7 +25,7 @@ subtitle = ""
 +++
 
 I have successfully worked with multiple companies on short-term and medium-term projects in the past.
-I would be happy to talk about how we can work together, please contact me for an initial consultation. 
+I would be happy to talk about how we can work together, [#contact](please contact) me for an initial consultation. 
 
 
 
