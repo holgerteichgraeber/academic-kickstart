@@ -77,7 +77,7 @@ email: ""
 #- Visitors
 ---
 
-I am an Operations Research Scientist in the Data Science team at [Convoy](https://convoy.com/), where I develop, deploy, and maintain machine learning and optimization algorithms to build efficiency into our network of shipments. A high-level description of the problem we are solving for can be found [here](https://medium.com/convoy-tech/algorithmically-bundling-shipments-cb1ada68e0d8).  
+I am an Operations Research Scientist in the Data Science team at [Convoy](https://convoy.com/). Here, I work on building efficiency into our network of shipments. I develop, deploy, and maintain machine learning and optimization algorithms in production, and I provide quantitative insights to inform product decisions. A high-level description of the problem we are solving for can be found [here](https://medium.com/convoy-tech/algorithmically-bundling-shipments-cb1ada68e0d8).  
 
 Previously, I received my Ph.D. from the Department of Energy Resources Engineering at Stanford University. My advisor was [Prof. Adam Brandt](https://profiles.stanford.edu/adam-brandt) and I was a Wells Family Stanford Graduate Fellow.
 
