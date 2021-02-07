@@ -10,21 +10,21 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate
+role: Operations Research Scientist - Data Science
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Convoy
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: PhD candidate at Stanford. Interested in machine learning and optimization.
+bio: Versatile data scientist interested in machine learning and optimization.
 
 interests:
 - Machine Learning
 - Optimization
 - Energy Systems
-- Supply Chain & Logistics
+- Supply Chain & Transportation
 
 education:
   courses:
@@ -77,11 +77,13 @@ email: ""
 #- Visitors
 ---
 
-I am a Ph.D. candidate in the Department of Energy Resources Engineering at Stanford University. My advisor is [Prof. Adam Brandt](https://profiles.stanford.edu/adam-brandt) and I am a Wells Family Stanford Graduate Fellow.
+I am an Operations Research Scientist in the Data Science team at [Convoy](https://convoy.com/), where I develop, deploy, and maintain machine learning and optimization algorithms to build efficiency into our network of shipments. A high-level description of the problem we are solving for can be found [here](https://medium.com/convoy-tech/algorithmically-bundling-shipments-cb1ada68e0d8).  
 
-In my research, I focus on applying state-of-the-art computational tools at the intersection of machine learning and optimization to energy systems problems. As an example, I have worked extensively on the development of new algorithms and applications of time-series aggregation for infrastructure planning and operations.
+Previously, I received my Ph.D. from the Department of Energy Resources Engineering at Stanford University. My advisor was [Prof. Adam Brandt](https://profiles.stanford.edu/adam-brandt) and I was a Wells Family Stanford Graduate Fellow.
+
+In my Ph.D. research, I focused on applying state-of-the-art computational tools at the intersection of machine learning and optimization to energy systems problems. As an example, I have worked extensively on the development of new algorithms and applications of time-series aggregation for infrastructure planning and operations.
 Out of my research, two open-source software packages have emerged: [TimeSeriesClustering](git.io/TimeSeriesClustering) implements unsupervised learning methods for time-series data, and [CapacityExpansion](git.io/CapacityExpansion) provides an extensible, data-driven infrastructure planning tool for energy systems.
 
-I have previously interned at the battery software company Doosan GridTech; in the renewable energy forecasting division of Vaisala (formerly 3Tier); in the market optimization group at RWE Power, one of Europe's largest utility companies; and at ThyssenKrupp, one of the world's largest steel producers.
+During my studies, I interned at the battery software company Doosan GridTech; in the renewable energy forecasting division of Vaisala (formerly 3Tier); in the market optimization group at RWE Power, one of Europe's largest utility companies; and at ThyssenKrupp, one of the world's largest steel producers.
 
 
