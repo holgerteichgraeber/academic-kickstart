@@ -6,7 +6,7 @@
 - publications are configured in content/home , but added in content/publication
 - projects are configured in content/home , but added in content/project
 - bio is written in content/authors/... , and only linked to in content/home/about.md
-
+- use netlify for site deployment
 
 
 # Academic Kickstart: The Template for [Academic Website Builder](https://sourcethemes.com/academic/)
