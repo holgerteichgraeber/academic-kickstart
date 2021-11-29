@@ -76,10 +76,11 @@ email: ""
 #- Researchers
 #- Visitors
 ---
+I am a Senior Data Scientist at [Archer](https://archer.com/). Here, I work on the  optimization and machine learning models that make up Prime Radiant (see [here](https://archer.com/news/optimizing-for-the-third-dimension-prime-radiant) for more details). Prime Radiant is Archer's data science technology that allows us to better understand how people travel within cities around the world and informs the company's strategic decisions on vehicle design and go-to-market strategy.  
 
-I am an Operations Research Scientist in the Data Science team at [Convoy](https://convoy.com/). Here, I work on building efficiency into our network of shipments. I develop, deploy, and maintain machine learning and optimization algorithms in production, and I provide quantitative insights to inform product decisions. A high-level description of the problem we are solving for can be found [here](https://medium.com/convoy-tech/algorithmically-bundling-shipments-cb1ada68e0d8).  
+Previously, I worked as an Operations Research Scientist in the Data Science team at [Convoy](https://convoy.com/). There, I worked on building efficiency into our network of shipments. I developed, deployed, and maintained machine learning and optimization algorithms in production, and I provided quantitative insights to inform product decisions. A high-level description of the problem my team is solving for can be found [here](https://medium.com/convoy-tech/algorithmically-bundling-shipments-cb1ada68e0d8).  
 
-Previously, I received my Ph.D. from the Department of Energy Resources Engineering at Stanford University. My advisor was [Prof. Adam Brandt](https://profiles.stanford.edu/adam-brandt) and I was a Wells Family Stanford Graduate Fellow.
+I received my Ph.D. from the Department of Energy Resources Engineering at Stanford University. My advisor was [Prof. Adam Brandt](https://profiles.stanford.edu/adam-brandt) and I was a Wells Family Stanford Graduate Fellow.
 
 In my Ph.D. research, I focused on applying state-of-the-art computational tools at the intersection of machine learning and optimization to energy systems problems. As an example, I have worked extensively on the development of new algorithms and applications of time-series aggregation for infrastructure planning and operations.
 Out of my research, two open-source software packages have emerged: [TimeSeriesClustering](git.io/TimeSeriesClustering) implements unsupervised learning methods for time-series data, and [CapacityExpansion](git.io/CapacityExpansion) provides an extensible, data-driven infrastructure planning tool for energy systems.
