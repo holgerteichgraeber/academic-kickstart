@@ -76,7 +76,7 @@ email: ""
 #- Researchers
 #- Visitors
 ---
-I am a Data Science Manager at [Archer](https://archer.com/). Here, I work on the machine learning models, optimization models, and the software suite that support planning and operations. This includes Prime Radiant (see [here](https://archer.com/news/optimizing-for-the-third-dimension-prime-radiant) for more details). Prime Radiant is Archer's data science technology that allows us to better understand how people travel within cities around the world and informs the company's strategic decisions on vehicle design and go-to-market strategy.  
+I am a Data Science Manager at [Archer](https://archer.com/). Here, I work on the machine learning models, optimization models, and the software suite that support planning and operations, including Prime Radiant (see [here](https://archer.com/news/optimizing-for-the-third-dimension-prime-radiant) for more details). Prime Radiant is Archer's data science technology that allows us to better understand how people travel within cities around the world and informs the company's strategic decisions on vehicle design and go-to-market strategy.  
 
 Previously, I worked as an Operations Research Scientist in the Data Science team at [Convoy](https://convoy.com/). There, I worked on building efficiency into our network of shipments. I developed, deployed, and maintained machine learning and optimization algorithms in production, and I provided quantitative insights to inform product decisions. A high-level description of the problem my team is solving for can be found [here](https://medium.com/convoy-tech/algorithmically-bundling-shipments-cb1ada68e0d8).  
 
